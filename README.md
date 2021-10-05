@@ -1,6 +1,6 @@
 ## R Projects:
 
-This is a wrap-up repository of all my R gigs/projects. From data wrangling/cleaning, and data visualization to Machine Learning and AI models all done using R.
+This is a wrapper repository for some of my R gigs/projects. From data wrangling/cleaning, and data visualization to Machine Learning and AI models all done on R with integration with other viz softwares like Tableau.
 
 - [ R: SVM classifier using R and Tableau](https://github.com/taricov/R_SVM_Classifier)<br/>
 - [ R: K-means Cluster Algorithm using R and Tableau](https://github.com/taricov/R_K_means_Cluster)<br/>
